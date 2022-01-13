@@ -1,0 +1,14 @@
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-01-13T22:03:31.917Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Your site is now available on https://localhost/","time":"2022-01-13T22:03:31.920Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-01-13T22:03:31.921Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Ghost server started in 0.949s","time":"2022-01-13T22:03:31.967Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-01-13T22:03:32.635Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Ghost database ready in 1.62s","time":"2022-01-13T22:03:32.636Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Ghost URL Service Ready in 6.204s","time":"2022-01-13T22:03:37.221Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Ghost booted in 6.213s","time":"2022-01-13T22:03:37.229Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-01-13T22:03:37.238Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":30,"msg":"Scheduling job update-check at 59 26 3 * * *. Next run on: Fri Jan 14 2022 03:26:59 GMT+0000 (Coordinated Universal Time)","time":"2022-01-13T22:03:37.263Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":40,"msg":"Ghost is shutting down","time":"2022-01-13T22:04:09.871Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":40,"msg":"Ghost has shut down","time":"2022-01-13T22:04:09.883Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":40,"msg":"Your site is now offline","time":"2022-01-13T22:04:09.889Z","v":0}
+{"name":"Log","hostname":"9604600c9da2","pid":1,"level":40,"msg":"Ghost was running for a few seconds","time":"2022-01-13T22:04:09.891Z","v":0}

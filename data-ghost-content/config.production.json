@@ -1,7 +1,7 @@
 {
-    "url": "https://yourdomen",
+    "url": "http://localhost",
     "server": {
-        "port": 2368,
+        "port": 2369,
         "host": "0.0.0.0"
     },
     "database": {

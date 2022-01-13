@@ -1,0 +1,75 @@
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-01-13T22:01:20.667Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Your site is now available on https://yourdomen/","time":"2022-01-13T22:01:20.669Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-01-13T22:01:20.686Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Ghost server started in 1.098s","time":"2022-01-13T22:01:20.719Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":40,"msg":"Database state requires initialisation.","time":"2022-01-13T22:01:21.248Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: posts","time":"2022-01-13T22:01:21.818Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: posts_meta","time":"2022-01-13T22:01:21.883Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: users","time":"2022-01-13T22:01:21.949Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: oauth","time":"2022-01-13T22:01:22.232Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: posts_authors","time":"2022-01-13T22:01:22.270Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: roles","time":"2022-01-13T22:01:22.316Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: roles_users","time":"2022-01-13T22:01:22.377Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: permissions","time":"2022-01-13T22:01:22.414Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: permissions_users","time":"2022-01-13T22:01:22.498Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: permissions_roles","time":"2022-01-13T22:01:22.541Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: settings","time":"2022-01-13T22:01:22.633Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: tags","time":"2022-01-13T22:01:22.739Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: posts_tags","time":"2022-01-13T22:01:22.826Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: invites","time":"2022-01-13T22:01:22.858Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: brute","time":"2022-01-13T22:01:22.954Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: sessions","time":"2022-01-13T22:01:22.999Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: integrations","time":"2022-01-13T22:01:23.083Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: webhooks","time":"2022-01-13T22:01:23.145Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: api_keys","time":"2022-01-13T22:01:23.186Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2022-01-13T22:01:23.306Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members","time":"2022-01-13T22:01:23.373Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: products","time":"2022-01-13T22:01:23.507Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: offers","time":"2022-01-13T22:01:23.589Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: benefits","time":"2022-01-13T22:01:23.709Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: products_benefits","time":"2022-01-13T22:01:23.784Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_products","time":"2022-01-13T22:01:23.824Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_payment_events","time":"2022-01-13T22:01:23.857Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_login_events","time":"2022-01-13T22:01:23.890Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_email_change_events","time":"2022-01-13T22:01:23.919Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_status_events","time":"2022-01-13T22:01:23.954Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_product_events","time":"2022-01-13T22:01:23.999Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_paid_subscription_events","time":"2022-01-13T22:01:24.034Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: labels","time":"2022-01-13T22:01:24.061Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_labels","time":"2022-01-13T22:01:24.161Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_stripe_customers","time":"2022-01-13T22:01:24.194Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2022-01-13T22:01:24.254Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: offer_redemptions","time":"2022-01-13T22:01:24.345Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: members_subscribe_events","time":"2022-01-13T22:01:24.373Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: stripe_products","time":"2022-01-13T22:01:24.404Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: stripe_prices","time":"2022-01-13T22:01:24.473Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: actions","time":"2022-01-13T22:01:24.542Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: emails","time":"2022-01-13T22:01:24.573Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: email_batches","time":"2022-01-13T22:01:24.803Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: email_recipients","time":"2022-01-13T22:01:24.852Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: tokens","time":"2022-01-13T22:01:25.013Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: snippets","time":"2022-01-13T22:01:25.091Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: temp_member_analytic_events","time":"2022-01-13T22:01:25.152Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Creating table: custom_theme_settings","time":"2022-01-13T22:01:25.184Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Model: Product","time":"2022-01-13T22:01:25.249Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Model: Tag","time":"2022-01-13T22:01:25.362Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Model: Role","time":"2022-01-13T22:01:25.378Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Model: Permission","time":"2022-01-13T22:01:25.435Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Model: User","time":"2022-01-13T22:01:26.224Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Model: Post","time":"2022-01-13T22:01:27.318Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Model: Integration","time":"2022-01-13T22:01:29.544Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Relation: Role to Permission","time":"2022-01-13T22:01:29.644Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Relation: Post to Tag","time":"2022-01-13T22:01:30.307Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Relation: User to Role","time":"2022-01-13T22:01:30.394Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-01-13T22:01:30.623Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Ghost database ready in 11.004s","time":"2022-01-13T22:01:30.623Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Ghost URL Service Ready in 19.429s","time":"2022-01-13T22:01:39.050Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Ghost booted in 19.479s","time":"2022-01-13T22:01:39.099Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-01-13T22:01:39.108Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"msg":"Scheduling job update-check at 19 26 8 * * *. Next run on: Fri Jan 14 2022 08:26:19 GMT+0000 (Coordinated Universal Time)","time":"2022-01-13T22:01:39.136Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"req":{"meta":{"requestId":"e5395247-5c8c-477e-b609-a7559ae5d6ac","userId":null},"url":"/","method":"GET","originalUrl":"/","params":{},"headers":{"host":"localhost:2369","upgrade-insecure-requests":"1","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15","accept-language":"ru","accept-encoding":"gzip, deflate","connection":"keep-alive"},"query":{}},"res":{"_headers":{"x-powered-by":"Express","cache-control":"public, max-age=31536000","location":"https://localhost:2369/","vary":"Accept, Accept-Encoding","content-type":"text/html; charset=utf-8","content-length":"102"},"statusCode":301,"responseTime":"14ms"},"msg":"","time":"2022-01-13T22:01:41.683Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":30,"req":{"meta":{"requestId":"4aa89c05-dbda-48fa-a514-2b1f940411c5","userId":null},"url":"/","method":"GET","originalUrl":"/","params":{},"headers":{"host":"dev0.ti-robots.ru:2369","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","upgrade-insecure-requests":"1","cookie":"**REDACTED**","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15","accept-language":"ru","accept-encoding":"gzip, deflate","connection":"keep-alive"},"query":{}},"res":{"_headers":{"x-powered-by":"Express","cache-control":"public, max-age=31536000","location":"https://dev0.ti-robots.ru:2369/","vary":"Accept, Accept-Encoding","content-type":"text/html; charset=utf-8","content-length":"118"},"statusCode":301,"responseTime":"4ms"},"msg":"","time":"2022-01-13T22:02:49.408Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":40,"msg":"Ghost is shutting down","time":"2022-01-13T22:03:26.312Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":40,"msg":"Ghost has shut down","time":"2022-01-13T22:03:26.317Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":40,"msg":"Your site is now offline","time":"2022-01-13T22:03:26.318Z","v":0}
+{"name":"Log","hostname":"0da4775c5f6f","pid":1,"level":40,"msg":"Ghost was running for 2 minutes","time":"2022-01-13T22:03:26.319Z","v":0}
