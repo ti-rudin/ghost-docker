@@ -6,7 +6,7 @@ services:
   image: ghost:latest
   restart: always
   ports:
-   - 2369:2369
+   - 2368:2368
   volumes:
   - ./data-ghost-content/config.production.json:/var/lib/ghost/config.production.json:z #overwrite default settings 
   - ./data-ghost-content:/var/lib/ghost/content
